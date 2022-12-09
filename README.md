@@ -6,6 +6,9 @@
   
   
 <div align="center">
+  <a href="https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6"><img src="https://miro.medium.com/max/720/1*p_hyqAtyI8pbt2kEl6siOQ.webp" alt="" ></a></div>
+  
+<div align="center">
   <a href="https://www.v7labs.com/blog/neural-networks-activation-functions"><img src="https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/627d12431fbd5e61913b7423_60be4975a399c635d06ea853_hero_image_activation_func_dark.png" alt="" ></a></div>
   
 <div align="center">
